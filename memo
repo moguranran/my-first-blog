@@ -1,0 +1,5 @@
+仮想環境を有効にするためには以下のコマンド
+$ . myvenv\Scripts\activate.ps1
+
+参考URL:https://tutorial.djangogirls.org/ja/django_installation/
+仮想環境の操作=>Working with virtualenv: Windows=>VS codeの場合を参照
